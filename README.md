@@ -22,5 +22,5 @@ None
 ---
 - hosts: all
   roles:
-    - webstorm
+    - { role: jbeurel.webstorm, become: yes }
 ```
