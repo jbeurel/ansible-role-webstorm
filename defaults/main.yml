@@ -1,0 +1,4 @@
+# defaults file for webstorm
+---
+webstorm_version: 2016.3.3
+webstorm_install_prefix: /opt

@@ -1,0 +1,21 @@
+# meta file for webstorm
+---
+galaxy_info:
+  author: Jonathan Beurel
+  description: Set up WebStorm
+  license: MIT
+  min_ansible_version: 1.9.6
+  platforms:
+    - name: Ubuntu
+      versions:
+        - precise
+        - trusty
+        - xenial
+    - name: Debian
+      versions:
+        - wheezy
+        - jessie
+  galaxy_tags:
+    - development
+    - system
+dependencies: []
